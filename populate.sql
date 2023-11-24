@@ -1,7 +1,7 @@
 INSERT INTO Student(Student_ID, Gender, Ethnicity)
 VALUES(1, 'female', 'group B');
 INSERT INTO Student(Student_ID, Gender, Ethnicity)
-VALUES(2, 'female', 'group С');
+VALUES(2, 'female', 'group C');
 INSERT INTO Student(Student_ID, Gender, Ethnicity)
 VALUES(3, 'female', 'group B');
 INSERT INTO Student(Student_ID, Gender, Ethnicity)
